@@ -1,0 +1,15 @@
+.main,
+.main main {
+  width: 100%;
+  position: relative;
+  height: 100%;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  font-family: Roboto;
+}

@@ -1,0 +1,28 @@
+.header {
+  height: 100px;
+  background-color: white;
+  color: #C68B59;
+}
+
+.header__toggle {
+  border: 0;
+}
+
+.navbar-brand {
+  font-weight: 900;
+  font-size: 2.2rem;
+  color: #865439 !important;
+}
+
+.nav-link {
+  font-size: 18px;
+  width: auto;
+  font-weight: 500;
+  color: rgb(198, 139, 89) !important;
+  text-align: center;
+}
+
+.navbar-brand:first-child {
+  margin-right: 5%;
+}
+

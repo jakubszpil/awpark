@@ -1,0 +1,6 @@
+.home-banner {
+    max-width: 75%;
+    margin: 0 auto;
+    background-image: url('../../../../images/carpark.jpg');
+    background-size: cover;
+  }
